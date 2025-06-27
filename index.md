@@ -8,7 +8,7 @@ title: Sodium Showcase
 Berikut ini adalah mod ringan untuk Minecraft berbasis Fabric.
 
 <div class="card">
-  <img src="https://cdn.modrinth.com/data/AANobbMI/4156cba6647ad0b9a6bdbe3277f5489bb97a0b30.png" alt="Sodium Logo">
+  <img src="IMG_20250627_191904.jpg" alt="Sodium Logo">
   <h2>Sodium</h2>
   <p>Mod optimization buat Minecraft, bikin FPS nambah drastis!</p>
   <a href="https://modrinth.com/mod/sodium" target="_blank">Lihat di Modrinth</a>
