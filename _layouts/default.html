@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>{{ page.title }}</title>
+  <style>
+  body {
+    font-family: sans-serif;
+    background: #1e1e1e;
+    color: #eee;
+    padding: 2rem;
+    max-width: 900px;
+    margin: auto;
+  }
+
+  .card {
+    background: #2a2a2a;
+    border-radius: 10px;
+    padding: 1.5rem;
+    margin-bottom: 1.5rem;
+    box-shadow: 0 0 10px #00000070;
+    transition: transform 0.2s;
+  }
+
+  .card:hover {
+    transform: scale(1.02);
+  }
+
+  .card img {
+    max-width: 100%;
+    border-radius: 8px;
+    margin-bottom: 1rem;
+  }
+
+  .card h2 {
+    margin: 0 0 0.5rem;
+    color: #00ffd9;
+  }
+
+  .card p {
+    margin-bottom: 1rem;
+  }
+
+  .card a {
+    text-decoration: none;
+    background: #00ffd9;
+    color: black;
+    padding: 0.5rem 1rem;
+    border-radius: 6px;
+    display: inline-block;
+    font-weight: bold;
+  }
+</style>
+</head>
+<body>
+  {{ content }}
+</body>
+</html>
