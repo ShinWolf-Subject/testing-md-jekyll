@@ -15,7 +15,7 @@ Berikut ini adalah mod ringan untuk Minecraft berbasis Fabric.
 </div>
 
 <div class="card">
-  <img src="https://cdn.modrinth.com/data/gvQqBUqZ/20c4b3b93b6ec05f84e4e898eac16edcaa29b94e.png" alt="Lithium Logo">
+  <img src="img/img2.jpg" alt="Lithium Logo">
   <h2>Lithium</h2>
   <p>Optimasi logika sistem Minecraft, hemat CPU usage.</p>
   <a href="https://modrinth.com/mod/lithium" target="_blank">Lihat di Modrinth</a>
